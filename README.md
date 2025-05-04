@@ -3,6 +3,8 @@ Order Management System using Django
 
 ### setup and run
 to setup the project run the following command in the root directory  
+`pip install -r requirements.txt`  
+to install all the required packages  
 `python ./manage.py migrate`  
 this will create database and tables required for the application  
 then run the server   
