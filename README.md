@@ -30,7 +30,7 @@ Apply migrations
 `python ./manage.py makemigrations`   
 `python ./manage.py migrate`  
 
-Create a superuser (admin):
+Create a superuser (admin):  
 `python manage.py createsuperuser`  
 
 then run the server   
