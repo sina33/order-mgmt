@@ -14,3 +14,5 @@ using these endpoints you can create, list, edit and delete orders:
 - /api/orders/<id> PUT - update order
 - /api/orders/<id> DELETE - delete order
 
+execute the following command to run test cases  
+`python ./manage.py test`
